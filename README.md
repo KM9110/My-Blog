@@ -58,8 +58,4 @@ This project is a simple blog built with React, using Appwrite as the backend se
 
 ## Contributing
 
-Feel free to contribute by opening issues or creating pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Feel free to contribute by opening issues or creating pull requests.
